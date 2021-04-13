@@ -257,7 +257,7 @@ export default {
         },
         backendOptions: [
           { value: "http://127.0.0.1:25500/sub?" },
-          { value: "https://sub.lcxu.site/sub?" }
+          { value: "https://sc.lcxu.site/sub?" }
         ],
         remoteConfig: [
           {
